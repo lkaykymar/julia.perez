@@ -6,5 +6,7 @@
      Passo 2: Abra o código no repositório do Vscode.
 
      Passo 3: Execute o código.
+
+     Os dados inseridos pelo usuário devem ser em inglês.
      
      
